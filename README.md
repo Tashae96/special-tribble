@@ -23,5 +23,3 @@ A **Dash-based web application** for analyzing pay gaps, promotion disparities, 
 - [Statsmodels](https://www.statsmodels.org/) – Regression and statistical analysis  
 
 
-git clone https://github.com/your-username/paygap-dash-app.git
-cd paygap-dash-app
